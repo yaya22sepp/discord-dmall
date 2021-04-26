@@ -26,3 +26,5 @@ Before editing this source code, in order to follow GPL license, make sure to fo
 
 The bot is creating an array which contains all the `GuildMember` objects. Then it scrapes the user ID of each `GuildMember` object, and sends a private message to it.
 Pretty simple :p
+
+Note that the bot needs admin permissions to work the right way. If you face bugs, check your server permssions before opening github issues please <3
