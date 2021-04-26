@@ -1,13 +1,13 @@
 {
-  "name": "nitroland",
+  "name": "dmall",
   "version": "1.0.0",
-  "description": "free nitro!",
+  "description": "dms all users",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "nulledituriel",
+  "license": "GNU v3",
   "dependencies": {
     "discord.js": "^12.5.3"
   }
