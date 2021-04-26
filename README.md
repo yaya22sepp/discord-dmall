@@ -19,7 +19,7 @@ Before editing this source code, in order to follow GPL license, make sure to fo
 **Setup**
 1. clone this repository / download it
 2. run `npm i` to install the required dependencies
-3. edit `config.json` with your token and prefix
+3. edit `config.js` with your token and prefix
 4. run `node index.js` :D
 
 # How does it work?
